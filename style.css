@@ -49,7 +49,6 @@
             80%{transform: rotate(900deg);}
             90%{transform: rotate(1080deg);}
             100%{transform: rotate(1440deg);}
-
         }
         @media screen and (max-width: 400px) {
             h2 {
